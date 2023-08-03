@@ -1,16 +1,57 @@
-### Hi there 👋
+<!-- ![Tamunokorite's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamunokorite&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamunokorite)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<!--
-**Tamunokorite/tamunokorite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/tamunokorite-briggs-731551211">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/ah3mba">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+# Hello, World! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Tamunokorite Briggs, a passionate software engineer with a knack for crafting digital solutions and an insatiable curiosity for technology. Welcome to my coding haven!
+
+## About Me
+
+- 🚀 Software Engineer | Backend and Full Stack Enthusiast
+- 💡 Turning Coffee into Code
+- 🌱 Lifelong Learner | Problem Solver
+- 👨‍💻 Open to Internship and Entry-Level Opportunities
+
+## Tech Stack and Skills
+
+- 💻 Python, JavaScript, PHP, TypeScript
+- ⚛️ React, Node.js, Next.js, Django, Laravel, Flutter
+- 🗄️ MySQL, PostgreSQL, MongoDB, Firestore
+- ☁️ Firebase
+- 🏗️ System Design
+
+## Exploring the Digital Wilderness
+
+🌟 I love building software, *mostly on the backend*, but I also work on the frontend with React and I enjoy building full stack applications, and seeing ideas come to life. Lately, I've been diving into Flutter to learn mobile app & cross-platform development.
+
+## Current Project: Interna
+
+🌐 I'm currently building (with a team) **Interna**, a platform that aims to empower students by providing them with access to  internship opportunities. As a recent graduate myself, I understand the importance of gaining practical experience, and Interna is my way of making that journey smoother for fellow students.
+
+## What's in My Toolbox
+
+- 🛠️ Crafting code that matters
+- 🌐 Contributing to open-source projects
+
+## Let's Connect and Code Together
+
+I'm always thrilled to connect with fellow developers, collaborate on projects, and learn from each other. Here's where you can find me:
+
+- LinkedIn: [Tamunokorite Briggs](https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/tamunokorite-briggs-731551211))
+- Twitter: [@ah3mba](https://twitter.com/ah3mba)
+
+
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Tamunokorite.Tamunokorite)](https://github.com/Tamunokorite) -->
+
+---
+
+_P.S. I'm open to internship or entry-level roles! If you also want to collaborate on projects, bring ideas to life, or simply connect over our shared passion for tech. Reach out to me at [obriggs03@gmail.com](mailto:obriggs03@gmail.com)._ 
