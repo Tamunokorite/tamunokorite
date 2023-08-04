@@ -29,10 +29,6 @@ I'm Tamunokorite Briggs, a passionate software engineer with a knack for craftin
 - ☁️ Firebase
 - 🏗️ System Design
 
-## Exploring the Digital Wilderness
-
-🌟 I love building software, *mostly on the backend*, but I also work on the frontend with React and I enjoy building full stack applications, and seeing ideas come to life. Lately, I've been diving into Flutter to learn mobile app & cross-platform development.
-
 ## Current Project: Interna
 
 🌐 I'm currently building (with a team) **Interna**, a platform that aims to empower students by providing them with access to  internship opportunities. As a recent graduate myself, I understand the importance of gaining practical experience, and Interna is my way of making that journey smoother for fellow students.
